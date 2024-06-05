@@ -1,5 +1,14 @@
 # ML-Seminar-Pet-Adoption-Speed
+Work by Liran Meirovich and Miriam Sidorova
+
+Link to kaggle work:
 https://www.kaggle.com/code/liranmeirovich/pet-finder-dataset-seminar
+
+# File contents:
+-Essay on dataset.docx - Essay which talks in detail about everything we have done in this work.
+-Seminar in machine learning.pdf - Presentation file visually showing things we've done in preperation for the work.
+-Seminar_final_work.html - The work itself, in html form quite quick and easy to see what we've done and outputs of the code.
+-Seminar_final_work.ipynb - The python code itself.
 
 # Pet Adoption Speed Prediction
 
